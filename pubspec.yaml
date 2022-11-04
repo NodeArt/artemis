@@ -11,7 +11,7 @@ dependencies:
   build_config: ^1.1.0
   code_builder: ^4.3.0
   build: ^2.3.1
-  collection: ^1.17.0
+  collection: ^1.16.0
   dart_style: ^2.2.4
   equatable: ^2.0.5
   glob: ^2.1.0
